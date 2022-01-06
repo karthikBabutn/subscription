@@ -7,6 +7,15 @@ Use Maven to build the application
 ```bash
 mvn clean install
 ```
+
+## Test case
+
+Use Maven to run the testcase
+
+```bash
+mvn clean test
+```
+
 ## Running
 
 Upon successfully packaging the app, Use the command to start the application
